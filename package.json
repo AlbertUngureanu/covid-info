@@ -1,0 +1,17 @@
+{
+  "name": "ncov",
+  "version": "1.0.0",
+  "description": "Informatii despre Romania",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "node.js": "^0.0.1-security",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biznis",
+  "license": "ISC"
+}
